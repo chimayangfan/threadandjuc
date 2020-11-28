@@ -6,6 +6,7 @@ import java.util.concurrent.atomic.AtomicIntegerArray;
  * @author 邱润泽 bullock
  */
 //this is a test
+//git branch --set-upstream localbranch master
 public class AtomicArray1 {
 
     static AtomicIntegerArray atomicIntegerArray = new AtomicIntegerArray(10);
